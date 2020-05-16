@@ -2,7 +2,7 @@
 
 This is a repository where we publish a modified wikibase 1.34 bundle docker image. It is meant to run with `docker-compose`.
 
-* Build `wikibase:1.34-mod-bundle` docker image:
+* Build docker image:
 ```
 docker build "1.34-mod/bundle" -t wikibase/wikibase:1.34-mod-bundle
 ```
