@@ -2,6 +2,9 @@
 ${DOLLAR}wgWBRepoSettings['siteLinkGroups'] = [];
 ${DOLLAR}wgWBRepoSettings['specialSiteLinkGroups'] = [];
 
+# Confiugre search index
+${DOLLAR}wgWBRepoSettings['searchIndexProperties'] = ['P1'];
+
 # Add icons
 ${DOLLAR}wgFooterIcons = [
 	"copyright" => [
