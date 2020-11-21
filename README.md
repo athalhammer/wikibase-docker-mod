@@ -14,4 +14,4 @@ docker-compose up -d
 ```
 
 ## What is different?
-The docker image adds a ![Powered by Wikibase](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Powered_by_Wikibase.svg/88px-Powered_by_Wikibase.svg.png) footer icon and removes all sitelinks.
+The docker image adds a ![Powered by Wikibase](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Powered_by_Wikibase.svg/88px-Powered_by_Wikibase.svg.png) footer icon, removes all sitelinks, and provides an example on how to configure properties indexed by WikibaseCirrusSearch.
